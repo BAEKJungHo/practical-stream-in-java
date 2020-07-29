@@ -1,11 +1,12 @@
 package com.weave.stream.app;
 
-import com.weave.stream.functionalInterface.PlusRandom;
+import com.weave.stream.functionalInterface.impl.PlusRandom;
 
 import java.util.function.Function;
 import java.util.function.UnaryOperator;
 
 /**
+ * FunctionApplication
  * =============================================================
  * Topic : Function 함수형 인터페이스에 대해서 알아보자.
  * @author BAEKJH
